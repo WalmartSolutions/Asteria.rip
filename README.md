@@ -10,6 +10,11 @@ Bro just fuqing get better obf and authhhhhh. Besides that It's good af so I app
 [3000IQPlayA]: https://github.com/3000IQPlay
 [ethanolA]: https://github.com/eurquake
 
+# How To Use
+1. Download the Fabric installer from here, open it and choose Minecraft 1.19.4 / 1.20.1 & Fabric
+2. Download Asteria-1.20.1.jar or Asteria-1.19.4.jar from this repository page and put it into your .minecraft/mods folder
+3. Start the game (with Fabric)
+
 # Credits
 - pog5, cuddlist, sysmain, pafias, pycat, violet.xvii, steretje - for making the client.
 - [3000IQPlay][3000IQPlayA] - cracking + deobfuscating the client & providing jar.
