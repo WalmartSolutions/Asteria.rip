@@ -7,6 +7,8 @@
 # Why?
 Bro just fuqing get better obf and authhhhhh. Besides that It's good af so I approve.
 
+GUI Bind: F8 (Bruh)
+
 [3000IQPlayA]: https://github.com/3000IQPlay
 [ethanolA]: https://github.com/eurquake
 
