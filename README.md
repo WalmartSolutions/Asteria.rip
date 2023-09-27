@@ -5,7 +5,7 @@
 **Asteria.rip - https://discord.gg/UYbdCrzUzX**
 
 # Why?
-Bro just fuqing get better obf and authhhhhh. Besides that It's good af so I approve.
+I was bored and the auth didnt get better since the first crack version i have made but never released. Also if any of ya are planing onto making a paid client, just get a fuqing good auth and obf. Besides that It's good af so I approve.
 
 GUI Bind: F8 (Bruh)
 
