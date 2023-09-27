@@ -18,7 +18,7 @@ GUI Bind: F8 (Bruh)
 3. Start the game (with Fabric)
 
 # Credits
-- pog5, cuddlist, sysmain, pafias, pycat, violet.xvii, steretje - for making the client.
+- pog5, cuddlist, pafias, pycat, violet.xvii, steretje - for making the client.
 - [3000IQPlay][3000IQPlayA] - cracking + deobfuscating the client & providing jar.
 - [ethanol][ethanolA] - providing emotional support for 3000IQPlay
 
