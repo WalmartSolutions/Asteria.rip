@@ -4,6 +4,8 @@
 
 **Asteria.rip - https://discord.gg/UYbdCrzUzX**
 
+**If ya join Asteria.rip Discord to only drop the link then please get real, yall arent cool and nobody really cares especially the devs. The crack has only been made because of the security not being updated when I have told the developer what to do with the security**
+
 # Why?
 I was bored and the auth didn't get better since the first crack version that I have made but never released it. Also if any of ya are planing onto making a paid client, just get a fuqing good auth and obf. Besides that It's good af so I approve.
 
